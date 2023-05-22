@@ -8,97 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mango.services.Identity
 build_property.RootNamespace = Mango.services.Identity
-build_property.ProjectDir = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Mango.services.Identity\
+build_property.ProjectDir = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Mango.services.Identity
+build_property.MSBuildProjectDirectory = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Account/AccessDenied.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Account/LoggedOut.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Account/LoggedOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dnZWRPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Account/Login.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Account/Logout.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Account/Register.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Consent/Index.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Consent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Device/Success.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Device/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Device/UserCodeCapture.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Device/UserCodeCapture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ2FwdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Device/UserCodeConfirmation.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Device/UserCodeConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Diagnostics/Index.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Diagnostics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Grants/Index.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Grants/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Home/Index.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Home/Privacy.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/Error.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/Redirect.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/Redirect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZGlyZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/_Layout.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/_Nav.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/_Nav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/_ScopeListItem.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/_ScopeListItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/Shared/_ValidationSummary.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/Shared/_ValidationSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/_ViewImports.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/Mango.services.Identity/Views/_ViewStart.cshtml]
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.services.Identity/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

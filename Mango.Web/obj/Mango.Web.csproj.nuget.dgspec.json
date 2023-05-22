@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Web\\Mango.Web.csproj": {}
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Web\\Mango.Web.csproj": {}
   },
   "projects": {
-    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
         "projectName": "Mango.Services.ProductAPI",
-        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
-        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\obj\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -54,6 +54,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -104,14 +108,14 @@
         }
       }
     },
-    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Web\\Mango.Web.csproj": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Web\\Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Web\\Mango.Web.csproj",
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Web\\Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Web\\Mango.Web.csproj",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Web\\Mango.Web.csproj",
         "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
-        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Web\\obj\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -135,8 +139,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
-                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj"
+              "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
+                "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj"
               }
             }
           }
@@ -151,9 +155,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
             }
           },
           "imports": [
