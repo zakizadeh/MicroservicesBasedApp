@@ -1282,6 +1282,28 @@
           }
         }
       },
+      "Mango.Services.CouponAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "10.1.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.0-preview.3.21201.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0-preview.3.21201.2",
+          "Swashbuckle.AspNetCore": "5.6.3",
+          "Swashbuckle.AspNetCore.Annotations": "6.1.4",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.1.4"
+        },
+        "compile": {
+          "bin/placeholder/Mango.Services.CouponAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mango.Services.CouponAPI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Mango.Services.ProductAPI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -4214,6 +4236,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Mango.Services.CouponAPI/1.0.0": {
+      "type": "project",
+      "path": "../Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj",
+      "msbuildProject": "../Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj"
+    },
     "Mango.Services.ProductAPI/1.0.0": {
       "type": "project",
       "path": "../Mango.Services.ProductAPI/Mango.Services.ProductAPI.csproj",
@@ -4222,6 +4249,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Mango.Services.CouponAPI >= 1.0.0",
       "Mango.Services.ProductAPI >= 1.0.0",
       "Microsoft.AspNetCore.Authentication >= 2.2.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 6.0.16",
@@ -4265,6 +4293,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {
+              "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj"
+            },
             "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj": {
               "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj"
             }

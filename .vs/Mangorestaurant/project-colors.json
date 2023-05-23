@@ -20,7 +20,22 @@
       "ProjectGuid": "da46386c-e157-4273-8020-7f66e43f408b",
       "DisplayName": "Mango.services.Identity",
       "ColorIndex": 2
+    },
+    "a66c558b-f547-4e75-85c9-fa76cc3a58db": {
+      "ProjectGuid": "a66c558b-f547-4e75-85c9-fa76cc3a58db",
+      "DisplayName": "Mango.Services.ShoppingCartAPI",
+      "ColorIndex": 3
+    },
+    "47181bc1-f163-4bf2-8a1f-13a7312d4b7b": {
+      "ProjectGuid": "47181bc1-f163-4bf2-8a1f-13a7312d4b7b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "7deeaf84-1ad2-46f8-8ee8-c2b0223e8c12": {
+      "ProjectGuid": "7deeaf84-1ad2-46f8-8ee8-c2b0223e8c12",
+      "DisplayName": "Mango.Services.CouponAPI",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

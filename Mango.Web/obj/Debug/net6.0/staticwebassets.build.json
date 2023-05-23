@@ -1,11 +1,22 @@
 {
   "Version": 1,
-  "Hash": "GzvoqAqfJwt+mZFwWl68ELdwvVqDWDxPYUIqZhybiug=",
+  "Hash": "fKQw1T+dMNSSzrVLfdVBZwcIGC3DEMTF5lc0BNlnNhQ=",
   "Source": "Mango.Web",
   "BasePath": "_content/Mango.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "Version": 2,
+      "Source": "Mango.Services.CouponAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
     {
       "Identity": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
       "Version": 2,

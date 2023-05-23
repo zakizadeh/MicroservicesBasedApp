@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\Mango.services.Identity.csproj": {}
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\Mango.services.Identity.csproj": {}
   },
   "projects": {
-    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\Mango.services.Identity.csproj": {
+    "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\Mango.services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\Mango.services.Identity.csproj",
+        "projectUniqueName": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\Mango.services.Identity.csproj",
         "projectName": "Mango.services.Identity",
-        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\Mango.services.Identity.csproj",
+        "projectPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\Mango.services.Identity.csproj",
         "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
-        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\obj\\",
+        "outputPath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

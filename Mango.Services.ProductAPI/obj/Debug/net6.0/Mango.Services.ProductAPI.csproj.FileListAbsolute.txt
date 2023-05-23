@@ -153,7 +153,6 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.csproj.AssemblyReference.cache
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.AssemblyInfoInputs.cache
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.AssemblyInfo.cs
@@ -168,3 +167,4 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\ref\Mango.Services.ProductAPI.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.pdb
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.csproj.AssemblyReference.cache

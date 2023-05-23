@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Mango.Web/1.0.0": {
         "dependencies": {
+          "Mango.Services.CouponAPI": "1.0.0",
           "Mango.Services.ProductAPI": "1.0.0",
           "Microsoft.AspNetCore.Authentication": "2.2.0",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "6.0.16",
@@ -843,6 +844,20 @@
           }
         }
       },
+      "Mango.Services.CouponAPI/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
+          "Swashbuckle.AspNetCore": "6.5.0",
+          "Swashbuckle.AspNetCore.Annotations": "6.5.0",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0"
+        },
+        "runtime": {
+          "Mango.Services.CouponAPI.dll": {}
+        }
+      },
       "Mango.Services.ProductAPI/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
@@ -1523,6 +1538,11 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "Mango.Services.CouponAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Mango.Services.ProductAPI/1.0.0": {
       "type": "project",

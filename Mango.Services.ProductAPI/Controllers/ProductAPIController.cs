@@ -16,7 +16,7 @@ namespace Mango.Services.ProductAPI.Controllers
             _productRepository = productRepository;
             this._response = new ResponseDto();
         }
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<object> Get()
         {

@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.Web/Views/Cart/CartIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.Web/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.Web/Views/Cart/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.Web/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/zakizadeh pc/edu/c\# cources 2023/Microservices/Project/Mangorestaurant/MicroservicesBasedApp/Mango.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

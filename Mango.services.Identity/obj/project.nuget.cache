@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uz1X1HQfXBge87jUyYRtNiI23b053mR48HqErBLNPZnq2VN5W9et3japXH9nC9fDq1K6nWK2BwF8x5uk4PZ6Ww==",
+  "dgSpecHash": "qjNy52nTnL+JLQJMVqDm6Xn44O9AjCCx552S8oBaNw6lPNxQIEG6rSikkCBcz/v7NIINeq6lV3DMJL1sQAsHtg==",
   "success": true,
-  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\Mango.services.Identity\\Mango.services.Identity.csproj",
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\Microservices\\Project\\Mangorestaurant\\MicroservicesBasedApp\\Mango.services.Identity\\Mango.services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

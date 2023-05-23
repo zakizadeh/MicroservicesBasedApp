@@ -175,3 +175,8 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\obj\Debug\net6.0\ref\Mango.Web.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\obj\Debug\net6.0\Mango.Web.pdb
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\obj\Debug\net6.0\Mango.Web.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\bin\Debug\net6.0\Mango.Services.CouponAPI.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\bin\Debug\net6.0\Mango.Services.CouponAPI.runtimeconfig.json
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\bin\Debug\net6.0\Mango.Services.CouponAPI.exe
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\bin\Debug\net6.0\Mango.Services.CouponAPI.dll
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Web\bin\Debug\net6.0\Mango.Services.CouponAPI.pdb
