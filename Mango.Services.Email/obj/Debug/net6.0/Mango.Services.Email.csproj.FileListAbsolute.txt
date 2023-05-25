@@ -65,3 +65,4 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.Email\obj\Debug\net6.0\ref\Mango.Services.Email.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.Email\obj\Debug\net6.0\Mango.Services.Email.pdb
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.Email\obj\Debug\net6.0\Mango.Services.Email.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.Email\obj\Debug\net6.0\Mango.Services.Email.csproj.AssemblyReference.cache

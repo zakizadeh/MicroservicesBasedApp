@@ -61,3 +61,4 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.CouponAPI\obj\Debug\net6.0\ref\Mango.Services.CouponAPI.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.pdb
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.genruntimeconfig.cache
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.csproj.AssemblyReference.cache

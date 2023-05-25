@@ -65,7 +65,12 @@
       "ProjectGuid": "fa7de8e0-5d39-45ab-9fa2-e4aec12926da",
       "DisplayName": "Mango.Services.Email",
       "ColorIndex": 11
+    },
+    "35190d7a-0eed-487c-bd9a-99e8125b65fd": {
+      "ProjectGuid": "35190d7a-0eed-487c-bd9a-99e8125b65fd",
+      "DisplayName": "Mango.GatewaySolution",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
