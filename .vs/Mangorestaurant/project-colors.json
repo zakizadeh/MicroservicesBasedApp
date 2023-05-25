@@ -35,7 +35,37 @@
       "ProjectGuid": "7deeaf84-1ad2-46f8-8ee8-c2b0223e8c12",
       "DisplayName": "Mango.Services.CouponAPI",
       "ColorIndex": 5
+    },
+    "8c2adc4b-95c9-42f5-9c84-f8e64554673f": {
+      "ProjectGuid": "8c2adc4b-95c9-42f5-9c84-f8e64554673f",
+      "DisplayName": "Mango.MessageBus",
+      "ColorIndex": 6
+    },
+    "a76180ec-eedb-40fa-bd85-42539736b8ec": {
+      "ProjectGuid": "a76180ec-eedb-40fa-bd85-42539736b8ec",
+      "DisplayName": "Mango.Services.OrderAPI",
+      "ColorIndex": 7
+    },
+    "b249f325-b26f-435c-880c-ce5911cc178c": {
+      "ProjectGuid": "b249f325-b26f-435c-880c-ce5911cc178c",
+      "DisplayName": "PaymentProcessor",
+      "ColorIndex": 8
+    },
+    "48096388-febf-4d4f-90f4-06ee969cd3f8": {
+      "ProjectGuid": "48096388-febf-4d4f-90f4-06ee969cd3f8",
+      "DisplayName": "Services",
+      "ColorIndex": 9
+    },
+    "78990f16-4ccd-44c1-a0c4-e78741244774": {
+      "ProjectGuid": "78990f16-4ccd-44c1-a0c4-e78741244774",
+      "DisplayName": "Mango.Services.PaymentAPI",
+      "ColorIndex": 10
+    },
+    "fa7de8e0-5d39-45ab-9fa2-e4aec12926da": {
+      "ProjectGuid": "fa7de8e0-5d39-45ab-9fa2-e4aec12926da",
+      "DisplayName": "Mango.Services.Email",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 12
 }

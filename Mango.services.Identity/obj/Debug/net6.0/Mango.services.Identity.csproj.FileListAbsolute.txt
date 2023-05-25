@@ -200,3 +200,4 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity\obj\Debug\net6.0\Mango.services.Identity.pdb
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity\obj\Debug\net6.0\Mango.services.Identity.genruntimeconfig.cache
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity\bin\Debug\net6.0\keys\is-signing-key-D134F4698F0FD3CC9514CE2AFFC7B50F.json
+E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.services.Identity\obj\Debug\net6.0\Mango.services.Identity.csproj.AssemblyReference.cache

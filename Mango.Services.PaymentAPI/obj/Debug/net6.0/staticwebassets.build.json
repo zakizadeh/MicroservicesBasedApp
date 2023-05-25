@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZdE4kpQ/f9Xx4zoXNyGHCm1Z+M1vLT+0tfohQ52mizc=",
+  "Source": "Mango.Services.PaymentAPI",
+  "BasePath": "_content/Mango.Services.PaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
