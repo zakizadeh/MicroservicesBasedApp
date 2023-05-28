@@ -16,7 +16,7 @@ namespace Mango.Services.PaymentAPI.Messaging
 {
     public class RabbitMQPaymentConsumer : BackgroundService
     {
-        
+
         private IConnection _connection;
         private IModel _channel;
         private readonly IRabbitMQPaymentMessageSender _rabbitMQPaymentMessageSender;
@@ -71,8 +71,8 @@ namespace Mango.Services.PaymentAPI.Messaging
             try
             {
                 _rabbitMQPaymentMessageSender.SendMessage(updatePaymentResultMessage);
-               // await _messageBus.PublishMessage(updatePaymentResultMessage, orderupdatepaymentresulttopic);
-               // await args.CompleteMessageAsync(args.Message);
+                // await _messageBus.PublishMessage(updatePaymentResultMessage, orderupdatepaymentresulttopic);
+                // await args.CompleteMessageAsync(args.Message);
             }
             catch (Exception e)
             {

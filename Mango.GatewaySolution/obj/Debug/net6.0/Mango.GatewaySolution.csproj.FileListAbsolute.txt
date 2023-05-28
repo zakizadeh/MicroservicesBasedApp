@@ -22,7 +22,6 @@ E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\Micros
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\bin\Debug\net6.0\Ocelot.dll
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\obj\Debug\net6.0\Mango.GatewaySolution.csproj.AssemblyReference.cache
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\obj\Debug\net6.0\Mango.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\obj\Debug\net6.0\Mango.GatewaySolution.AssemblyInfoInputs.cache
 E:\zakizadeh pc\edu\c# cources 2023\Microservices\Project\Mangorestaurant\MicroservicesBasedApp\Mango.GatewaySolution\obj\Debug\net6.0\Mango.GatewaySolution.AssemblyInfo.cs

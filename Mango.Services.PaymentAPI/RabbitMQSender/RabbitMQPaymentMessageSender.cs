@@ -41,7 +41,7 @@ namespace Mango.Services.PaymentAPI.RabbitMQSender
 
                 var json = JsonConvert.SerializeObject(message);
                 var body = Encoding.UTF8.GetBytes(json);
-                channel.BasicPublish(exchange: ExchangeName, "PaymentEmail" , basicProperties: null, body: body);
+                channel.BasicPublish(exchange: ExchangeName, "PaymentEmail", basicProperties: null, body: body);
                 channel.BasicPublish(exchange: ExchangeName, "PaymentOrder", basicProperties: null, body: body);
             }
         }

@@ -22,7 +22,9 @@ namespace Mango.Services.OrderAPI.Messaging
         private IModel _channel;
         private readonly IRabbitMQOrderMessageSender _rabbitMQOrderMessageSender;
 
-        public RabbitMQCheckoutConsumer(OrderRepository orderRepository, IRabbitMQOrderMessageSender rabbitMQOrderMessageSender)
+        public RabbitMQCheckoutConsumer(OrderRepository orderRepository
+            , IRabbitMQOrderMessageSender rabbitMQOrderMessageSender
+            )
         {
             _orderRepository = orderRepository;
             _rabbitMQOrderMessageSender = rabbitMQOrderMessageSender;
